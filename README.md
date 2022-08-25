@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @yasminesmati.
+- 👋 Hi, I’m @yasaminesmati.
 - 🌱 Currently,I am a computer engineering student at Ferdowsi university of mashhad.
